@@ -23,7 +23,7 @@
 
 >To ensure continuity of my work, projects, and contributions, I’ve recreated and maintained them here.
 
-If you were looking for my previous work or repositories — you’re in the right place. ( will add them one by one) stay tuned for it!)
+If you were looking for my previous work or repositories — you’re in the right place. ( will add them one by one) stay tuned for it!
 
 
 ---
