@@ -17,11 +17,14 @@
 
 ---
 
-<div align="center">
+#### ⚠️ Disclaimer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sidkr222003&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+>This profile/repository serves as a backup and continuation of my previous account **nk2552003**, which was unexpectedly suspended without prior notice or clear reason.
 
-</div>
+>To ensure continuity of my work, projects, and contributions, I’ve recreated and maintained them here.
+
+If you were looking for my previous work or repositories — you’re in the right place. ( will add them one by one) stay tuned for it!)
+
 
 ---
 
