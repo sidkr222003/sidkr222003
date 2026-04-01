@@ -33,9 +33,10 @@ Full Stack Developer based in **India** with a focus on building developer tools
 ### Current Work
 
 - Building **[Personal Portfolio](https://nitish.world)** — Showcasing projects & skills with interactive design
-- Developing **Open Source Tools** — Useful dev utilities and CLI tools for the community
+- Developing **umd** on Codeberg, Link Here: **[UMD](https://codeberg.org/nk2552003/umd)
 - Creating **Browser Extensions** — AI-powered productivity tools for developers
 - Publishing **Dev Resources** — Notes, guides & references for fellow developers
+- Created **Theme Extension** for VS Code - [Extension](https://marketplace.visualstudio.com/items?itemName=NK2552003.forest-ash-theme-vscode)
 
 ---
 
