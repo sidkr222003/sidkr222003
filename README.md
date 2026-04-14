@@ -1,14 +1,6 @@
 <div align="right">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nitish.world-4A90D9?style=flat-square&logo=google-chrome&logoColor=white)](https://nitish.world)
-[![Instagram](https://img.shields.io/badge/Instagram-natur_hacks-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/natur_hacks)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nk2552003-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nk2552003)
-[![Dev.to](https://img.shields.io/badge/Dev.to-nk2552003-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/nk2552003)
-[![CodePen](https://img.shields.io/badge/CodePen-Active-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/nk2552003)
-[![DeviantArt](https://img.shields.io/badge/DeviantArt-Profile-05CC47?style=flat-square&logo=deviantart&logoColor=white)](https://www.deviantart.com/sidkr222003)
-[![Codeberg](https://img.shields.io/badge/Codeberg-Repository-2185D0?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/nk2552003)
-[![Uiverse](https://img.shields.io/badge/Uiverse-UI%20Components-000000?style=flat-square&logo=vercel&logoColor=white)](https://uiverse.io/nk2552003)
-[![Instagram](https://img.shields.io/badge/Instagram-nitish.2432-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nitish.2432)
 ![Profile Views](https://komarev.com/ghpvc/?username=sidkr222003&color=00d4ff&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/sidkr222003?style=flat-square&color=blue&label=Followers)](https://github.com/sidkr222003)
 [![GitHub stars](https://img.shields.io/github/stars/sidkr222003?style=flat-square&color=yellow&label=Stars)](https://github.com/sidkr222003)
