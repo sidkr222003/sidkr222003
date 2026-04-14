@@ -17,17 +17,6 @@
 
 ---
 
-#### ⚠️ Disclaimer
-
->This profile/repository serves as a backup and continuation of my previous account **nk2552003**, which was unexpectedly suspended without prior notice or clear reason.
-
->To ensure continuity of my work, projects, and contributions, I’ve recreated and maintained them here.
-
-If you were looking for my previous work or repositories — you’re in the right place. ( will add them one by one) stay tuned for it!
-
-
----
-
 Full Stack Developer based in **India** with a focus on building developer tools and interactive web experiences. Currently working on open source projects, personal portfolio, and exploring 3D web technologies.
 
 ### Current Work
