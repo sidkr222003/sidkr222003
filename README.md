@@ -1,16 +1,3 @@
-<div align="right">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-nitish.world-4A90D9?style=flat-square&logo=google-chrome&logoColor=white)](https://nitish.world)
-![Profile Views](https://komarev.com/ghpvc/?username=sidkr222003&color=00d4ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/sidkr222003?style=flat-square&color=blue&label=Followers)](https://github.com/sidkr222003)
-[![GitHub stars](https://img.shields.io/github/stars/sidkr222003?style=flat-square&color=yellow&label=Stars)](https://github.com/sidkr222003)
-
-</div>
-
----
-
-Full Stack Developer based in **India** with a focus on building developer tools and interactive web experiences. Currently working on open source projects, personal portfolio, and exploring 3D web technologies.
-
 ### Current Work
 
 - Building **[Personal Portfolio](https://nitish.world)** — Showcasing projects & skills with interactive design
